@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: My 1st-Website
+title: kidist Gondel 1st-Website
 
 # Short description of your site
 description: A virtual proof that I'm awesom
@@ -102,7 +102,7 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#White Smoke color"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
