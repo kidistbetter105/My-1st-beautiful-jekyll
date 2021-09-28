@@ -102,7 +102,7 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#White Smoke color"
+navbar-col: "#Pink"
 navbar-text-col: "#Green"
 navbar-children-col: "#White Smoke color"
 page-col: "#Cadet Blue"
